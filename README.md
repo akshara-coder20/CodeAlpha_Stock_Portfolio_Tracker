@@ -100,7 +100,7 @@ Total Investment Value: $750
 
 **Course:** B.Tech
 
-**Branch:** Electronics and Communication Engineering (ECE)
+**Branch:** VLSI DESIGN AND TECHNOLOGY 
 
 ## Internship
 
